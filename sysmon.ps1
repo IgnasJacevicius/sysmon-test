@@ -1,1 +1,1 @@
-Execute-msi "sysmon.msi" -Parameters "/qn"
+Execute-msi "sysmon.msi" -Parameters "/qn /silent"
