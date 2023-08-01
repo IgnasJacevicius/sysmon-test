@@ -1,0 +1,1 @@
+Execute-msi "sysmon.msi" -Parameters "/qn"
